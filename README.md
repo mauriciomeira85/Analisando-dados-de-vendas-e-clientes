@@ -5,6 +5,8 @@
 
 O objetivo deste projeto é conectar o python ao postgreSQL e acessar o banco de dados que contém as tabelas relacionadas a uma empresa de automóveis diretamente do python no jupyter notebook. A ideia é fazer as análises utilizando os códigos do SQL no Python pelo jupyter notebook e as bibliotecas do python. Sendo assim, a filtragem dos dados foi feita utilizando os códigos do  postgreSQL aqui no python e a geração dos gráficos foi feita utilizando as bibliotecas do python. Além disso, com os dados filtrados foi elaborado um dashboard no Excel e no Power BI. A análise consiste em responder as seguintes perguntas:
 
+OBSERVAÇÃO: Caso não esteja conseguindo visualizar o arquivo do jupyter notebook aqui pelo Github, você pode acessar este link: (https://drive.google.com/file/d/1cq5jWZtAoxOErVdC9DPNbFjjEjA-iEK2/view?usp=sharing)
+
 **1**. **Qual Estado possue mais clientes?**
 
 **2**. **Qual o status profissional mais frequente dos clientes que compraram automóveis no site?**
